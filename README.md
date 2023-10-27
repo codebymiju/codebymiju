@@ -1,4 +1,4 @@
-<div style="align-items: center;">
+<div style="align: center;">
 ### Hi there 👋
 
 
