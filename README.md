@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/
         KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-</div>
+</div><br>
 
 <!-- ### 🛠 Languages and Tools
 
