@@ -1,8 +1,8 @@
-<div style="text-align: center;">
+<div align=center;>
 <p>
       👋&nbsp; Hi there! I'm miju✨ <br/><br/>
 </p>
-</div>
+
 
 ## 💪 Skills
 ## 🛠 Languages and Tools
@@ -36,4 +36,4 @@
  </a>
 </div><br> 
 
-
+</div>
