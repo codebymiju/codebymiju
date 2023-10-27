@@ -9,9 +9,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<br>
-<!--  -->
+  
+
 <a href="miju.kim.kr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/miju.kim.kr@gmail.com-#EA433?style=for-the-badge&logo=gmail&logoColor=#EA433"/></a>
-<br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymiju&show_icons=true&theme=shadow_blue)
