@@ -23,7 +23,7 @@
      <img src="https://img.shields.io/badge/DBeaver-3776AB?style=flat-square&logo=DBeaver&logoColor=white"><br> 
 </p>
     
-#### 📞 Contact 📞
+#### 📞 Contact 
  <a href="mailto:miju.kim.kr@gmail.com">
      <img src="https://img.shields.io/badge/miju.kim.kr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
  </a>
