@@ -24,7 +24,9 @@
 -->
 
 <!-- GitHub stats & Top Langs -->
+<div style="display:flex; flex-direction:column; align-items:center;">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymiju&show_icons=true&count_private=true&theme=shadow_blue) &nbsp; <a href="https://github.com/codebymiju"><img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a>
+</div>
 
  ### 🛠 Languages and Tools
 <div style="display:flex; flex-direction:column; align-items:center;">
