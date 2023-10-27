@@ -1,4 +1,4 @@
-<div style="align:center;">
+<div align:"center">
 ### Hi there 👋
 
 
@@ -15,7 +15,6 @@
 
 ### 🛠 Languages and Tools
 
-<p></p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Springboot-#6DB33F?style=flat-square&logo=Springboot&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
@@ -24,7 +23,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Eclipseide-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=Intellijidea&logoColor=white"/><br>
-</p>
+
 
 <!-- GitHub stats & Top Langs -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymiju&show_icons=true&theme=shadow_blue) &nbsp; <a href="https://github.com/codebymiju"><img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a>
