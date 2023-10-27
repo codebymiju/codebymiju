@@ -1,5 +1,5 @@
 
-<p style="align:center;">
+<p align:center;>
       👋&nbsp; Hi there! I'm miju✨ <br/><br/>
 </p>
 ### 💪 Skills
