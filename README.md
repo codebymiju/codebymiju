@@ -1,11 +1,10 @@
 
 <div align=center>
 <p>
-      👋&nbsp; Hi there! I'm miju✨ <br/><br/>
+      👋&nbsp; Hi there! I'm miju✨ 
 </p>
 
 #### 🛠 Languages and Tools
-
 <p>
     <!-- Backend -->  
      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
@@ -27,7 +26,7 @@
      <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white">
      <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
      <img src="https://img.shields.io/badge/DBeaver-3776AB?style=flat-square&logo=DBeaver&logoColor=white"><br> 
-</p><br>
+</p>
     
 ##### 📞 Contact 📞
  <a href="mailto:miju.kim.kr@gmail.com">
