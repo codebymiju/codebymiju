@@ -1,5 +1,4 @@
 
-
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:miju.kim.kr@gmail.com">
@@ -27,7 +26,7 @@
 <!-- GitHub stats & Top Langs -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymiju&show_icons=true&count_private=true&theme=shadow_blue) &nbsp; <a href="https://github.com/codebymiju"><img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a>
 
-## 🛠 Languages and Tools
+ ### 🛠 Languages and Tools
 <div style="display:flex; flex-direction:column; align-items:center;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -65,6 +64,6 @@
         <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
-</div>
+
 
 
