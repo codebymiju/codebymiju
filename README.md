@@ -1,4 +1,3 @@
-
 <div align=left>
 <p>
 <h3>Miju Kim</h3>    
