@@ -1,19 +1,7 @@
+<div style="text-align: center;">
  ### Hi, THERE
 
-<!-- ### 🛠 Languages and Tools
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Springboot-#6DB33F?style=flat-square&logo=Springboot&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Eclipseide-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=Intellijidea&logoColor=white"/><br>
--->
-
-
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 <div style="display:flex; flex-direction:column; align-items:center;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -64,3 +52,5 @@
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
 </div><br>
+</div>
+
