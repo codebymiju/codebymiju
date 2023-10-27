@@ -2,6 +2,7 @@
 <p align:center;>
       👋&nbsp; Hi there! I'm miju✨ <br/><br/>
 </p>
+
 ### 💪 Skills
 #### 🛠 Languages and Tools
 <p>
