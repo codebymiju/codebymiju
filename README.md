@@ -1,8 +1,8 @@
 
 <div align=left>
-<p>
-      👋&nbsp; Hi there! I'm Backend Developer✨ 
-</p>
+<h3>
+      👋&nbsp; Hi there! I'm miju 
+</h3>
 
 #### 🛠 Tech Stacks
 <p>
