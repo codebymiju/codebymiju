@@ -18,5 +18,7 @@ codebymiju/README.md
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymiju&show_icons=true&theme=shadow_blue)
 <a href="https://github.com/codebymiju"><img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymiju&show_icons=true&theme=shadow_blue) <a href="https://github.com/codebymiju"><img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymiju&show_icons=true&theme=shadow_blue) <a href="https://github.com/codebymiju"><img align="right" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" />
+
+
 
