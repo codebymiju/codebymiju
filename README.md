@@ -3,8 +3,8 @@
       👋&nbsp; Hi there! I'm miju✨ <br/><br/>
     </p>
     
-    ### 💪 Skills
-    #### 🛠 Languages and Tools
+### 💪 Skills
+#### 🛠 Languages and Tools
       <p>
             <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
             <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -32,7 +32,7 @@
     
       <a href="https://github.com/codebymiju"><img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a><br>
     
-      ### 📞 Contact 📞
+### 📞 Contact 📞
      <div style="align:center;">
          <a href="mailto:miju.kim.kr@gmail.com">
              <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
