@@ -1,15 +1,4 @@
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:miju.kim.kr@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/miju0206">
-        <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-</div><br>
+ ### Hi, THERE
 
 <!-- ### 🛠 Languages and Tools
 
@@ -23,10 +12,6 @@
 <img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=Intellijidea&logoColor=white"/><br>
 -->
 
-<!-- GitHub stats & Top Langs -->
-<div style="display:flex; flex-direction:column; align-items:center;">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymiju&show_icons=true&count_private=true&theme=shadow_blue) &nbsp; <a href="https://github.com/codebymiju"><img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a>
-</div>
 
  ### 🛠 Languages and Tools
 <div style="display:flex; flex-direction:column; align-items:center;">
@@ -67,5 +52,17 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 
+<!-- GitHub stats & Top Langs -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebymiju&show_icons=true&count_private=true&theme=shadow_blue) &nbsp; <a href="https://github.com/codebymiju"><img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a>
 
-
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:miju.kim.kr@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/miju0206">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+</div><br>
