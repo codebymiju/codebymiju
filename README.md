@@ -30,7 +30,7 @@
     
 ##### 📞 Contact 📞
  <a href="mailto:miju.kim.kr@gmail.com">
-     <img src="https://img.shields.io/badge/miju.kim.kr@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+     <img src="https://img.shields.io/badge/miju.kim.kr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
  </a>
 
 </div>
