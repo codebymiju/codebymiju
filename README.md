@@ -1,12 +1,11 @@
 
 <div align=center>
-
+<p>
       👋&nbsp; Hi there! I'm miju✨ <br/><br/>
+</p>
 
-
-
-## 💪 Skills
-## 🛠 Languages and Tools
+#### 💪 Skills
+### 🛠 Languages and Tools
 
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
