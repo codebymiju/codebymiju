@@ -1,4 +1,4 @@
-<div align=left>
+<div align=center>
 <p>
 <h3>Miju Kim</h3>    
 👋&nbsp;Hi there! I'm Backend Developer 
