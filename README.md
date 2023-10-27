@@ -1,5 +1,5 @@
 
-<div align=center>
+<div align=left>
 <p>
       👋&nbsp; Hi there! I'm miju✨ 
 </p>
