@@ -1,7 +1,7 @@
 
-    <p>
+<p>
       👋&nbsp; Hi there! I'm miju✨ <br/><br/>
-    </p><br>
+</p><br>
     
 ### 💪 Skills
 #### 🛠 Languages and Tools
@@ -25,13 +25,13 @@
      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
 </p><br>
     
-      <a href="https://github.com/codebymiju"><img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a><br>
+<a href="https://github.com/codebymiju"><img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a><br>
     
 ### 📞 Contact 📞
-     <div style="align:center;">
-         <a href="mailto:miju.kim.kr@gmail.com">
-             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-         </a>
-     </div><br> 
+<div style="align:center;">
+ <a href="mailto:miju.kim.kr@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+ </a>
+</div><br> 
 
 
