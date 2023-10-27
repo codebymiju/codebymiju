@@ -1,7 +1,7 @@
 
 <div align=left>
 <h3>
-      👋&nbsp; Hi there! I'm miju 
+👋&nbsp; Hi there! I'm miju 
 </h3>
 
 #### 🛠 Tech Stacks
