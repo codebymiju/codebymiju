@@ -29,13 +29,9 @@
      <img src="https://img.shields.io/badge/DBeaver-3776AB?style=flat-square&logo=DBeaver&logoColor=white"><br> 
 </p><br>
     
-<a href="https://github.com/codebymiju"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymiju&layout=compact&theme=prussian&hide_border=false" /></a><br>
-    
 ##### 📞 Contact 📞
-<div style="align:center;">
  <a href="mailto:miju.kim.kr@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
  </a>
-</div><br> 
 
 </div>
