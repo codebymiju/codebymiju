@@ -1,4 +1,4 @@
-<div style="align: center;">
+
     <p>
       👋&nbsp; Hi there! I'm miju✨ <br/><br/>
     </p><br>
@@ -35,4 +35,3 @@
      </div><br> 
 
 
- </div>
