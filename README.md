@@ -24,15 +24,17 @@
 </p>
 
 #### ✔ Project
- <a href="https://github.com/codebymiju/DangDangEat">
-    01. 반려동물 간식 쇼핑몰 "댕댕잇"
- </a>
- <a href="https://github.com/codebymiju/MuHanSangSa">
-    02. 창고 관리 시스템 "무한상사"
- </a>
-  <a href="https://github.com/codebymiju/Daltokki">
-    03. 온라인 롤링페이퍼 "달토끼"
- </a>
+ <p>
+     <a href="https://github.com/codebymiju/DangDangEat">
+        01. 반려동물 간식 쇼핑몰 "댕댕잇"
+     </a><br>
+     <a href="https://github.com/codebymiju/MuHanSangSa">
+        02. 창고 관리 시스템 "무한상사"
+     </a><br>
+      <a href="https://github.com/codebymiju/Daltokki">
+        03. 온라인 롤링페이퍼 "달토끼"
+     </a><br>
+ </p>    
 #### 📞 Contact 
  <a href="mailto:miju.kim.kr@gmail.com">
      <img src="https://img.shields.io/badge/miju.kim.kr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
